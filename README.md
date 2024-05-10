@@ -41,7 +41,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 - 🌟 [Wealth of Nations](https://github.com/assudani-deepak/Wealth-of-Nations-EXCEL-TABLEAU-): A project investigating relationships between GDP, Smartphone usage and Life Expectancy - Tools: Excel & Tableau
 - 🌟 [ATM simulation](https://github.com/assudani-deepak/ATM-project-PYTHON-/tree/main): A simulation game of a functional ATM - Tools: Python
-- 🌟 [ATM simulation](https://github.com/deepak-assudani/MusicXMentalHealth): A project analysing the relationship between music its effects on mental health - Tools: Python & Tableau
+- 🌟 [Music X Mental Health](https://github.com/deepak-assudani/MusicXMentalHealth): A project analysing the relationship between music its effects on mental health - Tools: Python & Tableau
 
 
 ## Let's Connect! 🌐
